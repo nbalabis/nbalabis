@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nick Balabis</h1>
 <h3 align="center">An ambitious Software Engineer working in Arizona</h3>
 
-- 🔭 I’m currently working on **An Updated Portfolio with Three.js**
+- 🔭 I’m currently working on **An Updated Portfolio**
 
-- 🌱 I’m currently learning **Solidity**
+- 🌱 I’m currently learning **Three.js**
 
 - 💬 Ask me about **NFTs and the blockchain**
 
